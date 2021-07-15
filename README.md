@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
-<h3 align="center">I am a ful time Software Engineer and love to work on Cloud Tech.</h3>
+<h3 align="center">I am a Full Stack Developer and love to work on Cloud Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijcode&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijcode" alt="kshitijcode" /></a> </p>
+
+- 📝 I regularly write articles on [ikshitijsharma.medium.com](ikshitijsharma.medium.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
